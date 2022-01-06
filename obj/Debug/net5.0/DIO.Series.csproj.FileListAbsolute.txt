@@ -1,0 +1,16 @@
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Workspace\BOOT - DECOLA TECH 2 AVANADE\PROJETO SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
